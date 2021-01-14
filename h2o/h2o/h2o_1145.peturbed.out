@@ -1,0 +1,79 @@
+/home/boittier/esp_check
+h2o_1145
+/data/boittier/energies/h2o_geom.xyz.dir
+Read multipoles for 3 atoms with max. rank 2
+Running in generate mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_1145.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752057   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218679    0.000000
+    1    1.000000    1.379577   -0.964338    0.000000
+    1    1.000000   -1.379577   -0.785095    0.000000
+  1.61649E-02  1.63402E-02  1.64886E-02  1.66089E-02  1.67001E-02  1.67613E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -9.88735E-03 -9.88147E-03 -9.86971E-03 -9.85207E-03 -9.82857E-03 -9.79923E-03
+
+338692 out of 512000 gridpoints are considered ( 66.2%).
+
+...done!
+
+ writing cube file quadrupole_expansion.cube                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Written cubefile and slice data
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_1145.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752057   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218679    0.000000
+    1    1.000000    1.379577   -0.964338    0.000000
+    1    1.000000   -1.379577   -0.785095    0.000000
+  6.03140E-03  6.24412E-03  6.46330E-03  6.68892E-03  6.92091E-03  7.15918E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.97033E-03 -6.84401E-03 -6.71781E-03 -6.59190E-03 -6.46645E-03 -6.34161E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/quadrupole_expansion.cube"...
+
+  Fitted ESP
+  Electrostatic potential fitted from quadrupole expansion.
+    3   -4.970736   -4.752057   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218679    0.000000
+    1    1.000000    1.379577   -0.964338    0.000000
+    1    1.000000   -1.379577   -0.785095    0.000000
+  5.98111E-03  6.18810E-03  6.40116E-03  6.62025E-03  6.84531E-03  7.07623E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.92702E-03 -6.80536E-03 -6.68354E-03 -6.56175E-03 -6.44014E-03 -6.31888E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        6.752739323E-01        4.673753276E+00    408590
+Close (  1.20 < r <   1.66 )          1.070642843E+00        4.673753276E+00    142587
+Mid-range ( 1.66 < r <  2.20)         3.340166273E-01        1.045838657E+00    196105
+Far-range (  2.20         < r)        1.191313687E-01        3.227030195E-01     69898
+Did analysis and wrote slice data

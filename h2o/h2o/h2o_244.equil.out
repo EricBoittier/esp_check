@@ -1,0 +1,31 @@
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_244.chk.fchk.potential.cube.xyz 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_244.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.745606   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.225130    0.000000
+    1    1.000000    1.415109   -0.911059    0.000000
+    1    1.000000   -1.415109   -0.889981    0.000000
+  6.18831E-03  6.41201E-03  6.64277E-03  6.88059E-03  7.12542E-03  7.37718E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.80846E-03 -6.68854E-03 -6.56860E-03 -6.44879E-03 -6.32927E-03 -6.21019E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_244.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_244.mep.dat
+  Electrostatic potential from Total SCF Density
+ERROR: Could not read "/home/boittier/esp_check/charmm/h2o_244.mep.dat.cube". Missing Header?

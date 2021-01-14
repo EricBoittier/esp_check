@@ -1,0 +1,1901 @@
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_1.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610407189.280610] [pc-beethoven:49678:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_1.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.748413   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222323    0.000000
+    1    1.000000    1.427171   -0.896400    0.000000
+    1    1.000000   -1.427171   -0.882184    0.000000
+  6.14036E-03  6.36314E-03  6.59298E-03  6.82987E-03  7.07378E-03  7.32462E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.74297E-03 -6.62470E-03 -6.50638E-03 -6.38817E-03 -6.27022E-03 -6.15269E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_1.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_1.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.748413   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222323    0.000000
+    1    1.000000    1.427171   -0.896400    0.000000
+    1    1.000000   -1.427171   -0.882184    0.000000
+ -2.41157E-02 -2.43342E-02 -2.45419E-02 -2.47377E-02 -2.49202E-02 -2.50881E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13102E-02 -1.12411E-02 -1.11720E-02 -1.11029E-02 -1.10338E-02 -1.09648E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.304476189E+01        8.523407779E+02    407544
+Close (  1.20 < r <   1.66 )          3.020512889E+01        8.523407779E+02    143121
+Mid-range ( 1.66 < r <  2.20)         1.916303421E+01        6.649510765E+01    195125
+Far-range (  2.20         < r)        1.431483149E+01        3.435156261E+01     69298
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_2.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610408257.905528] [pc-beethoven:53909:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_2.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752068   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218668    0.000000
+    1    1.000000    1.432158   -0.891118    0.000000
+    1    1.000000   -1.432158   -0.858227    0.000000
+  6.06922E-03  6.28927E-03  6.51628E-03  6.75024E-03  6.99110E-03  7.23879E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.70791E-03 -6.59013E-03 -6.47230E-03 -6.35459E-03 -6.23714E-03 -6.12011E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_2.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_2.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752068   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218668    0.000000
+    1    1.000000    1.432158   -0.891118    0.000000
+    1    1.000000   -1.432158   -0.858227    0.000000
+ -2.41634E-02 -2.43846E-02 -2.45952E-02 -2.47941E-02 -2.49798E-02 -2.51512E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13023E-02 -1.12333E-02 -1.11643E-02 -1.10953E-02 -1.10264E-02 -1.09575E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.306054548E+01        7.964234719E+02    407708
+Close (  1.20 < r <   1.66 )          3.023512512E+01        7.964234719E+02    142999
+Mid-range ( 1.66 < r <  2.20)         1.917990987E+01        6.612883037E+01    195263
+Far-range (  2.20         < r)        1.432915236E+01        3.431165301E+01     69446
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_3.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610409312.826314] [pc-beethoven:57890:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_3.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749076   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221660    0.000000
+    1    1.000000    1.426685   -0.897887    0.000000
+    1    1.000000   -1.426685   -0.875394    0.000000
+  6.12593E-03  6.34797E-03  6.57704E-03  6.81312E-03  7.05619E-03  7.30615E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.74534E-03 -6.62688E-03 -6.50837E-03 -6.38998E-03 -6.27186E-03 -6.15416E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_3.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_3.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749076   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221660    0.000000
+    1    1.000000    1.426685   -0.897887    0.000000
+    1    1.000000   -1.426685   -0.875394    0.000000
+ -2.41372E-02 -2.43569E-02 -2.45659E-02 -2.47629E-02 -2.49467E-02 -2.51161E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13064E-02 -1.12374E-02 -1.11683E-02 -1.10993E-02 -1.10302E-02 -1.09613E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.306695976E+01        8.330709034E+02    407589
+Close (  1.20 < r <   1.66 )          3.024414268E+01        8.330709034E+02    143059
+Mid-range ( 1.66 < r <  2.20)         1.917762144E+01        6.644704042E+01    195190
+Far-range (  2.20         < r)        1.432421691E+01        3.436881912E+01     69340
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_4.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610410363.257633] [pc-beethoven:61532:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_4.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.748858   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221877    0.000000
+    1    1.000000    1.432916   -0.887791    0.000000
+    1    1.000000   -1.432916   -0.887227    0.000000
+  6.13698E-03  6.36027E-03  6.59065E-03  6.82814E-03  7.07269E-03  7.32422E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.71003E-03 -6.59276E-03 -6.47541E-03 -6.35816E-03 -6.24115E-03 -6.12453E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_4.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_4.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.748858   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221877    0.000000
+    1    1.000000    1.432916   -0.887791    0.000000
+    1    1.000000   -1.432916   -0.887227    0.000000
+ -2.41036E-02 -2.43213E-02 -2.45283E-02 -2.47232E-02 -2.49048E-02 -2.50718E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13125E-02 -1.12434E-02 -1.11743E-02 -1.11051E-02 -1.10360E-02 -1.09670E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.300717701E+01        8.757948856E+02    407477
+Close (  1.20 < r <   1.66 )          3.014263060E+01        8.757948856E+02    143174
+Mid-range ( 1.66 < r <  2.20)         1.913915581E+01        6.611107185E+01    195033
+Far-range (  2.20         < r)        1.429902890E+01        3.433123130E+01     69270
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_5.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610411406.217538] [pc-beethoven:65429:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_5.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747701   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223034    0.000000
+    1    1.000000    1.414529   -0.912583    0.000000
+    1    1.000000   -1.414529   -0.871693    0.000000
+  6.14623E-03  6.36792E-03  6.59659E-03  6.83221E-03  7.07475E-03  7.32412E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.80560E-03 -6.68541E-03 -6.56519E-03 -6.44513E-03 -6.32537E-03 -6.20607E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_5.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_5.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747701   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223034    0.000000
+    1    1.000000    1.414529   -0.912583    0.000000
+    1    1.000000   -1.414529   -0.871693    0.000000
+ -2.41617E-02 -2.43827E-02 -2.45931E-02 -2.47917E-02 -2.49772E-02 -2.51482E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13015E-02 -1.12326E-02 -1.11636E-02 -1.10946E-02 -1.10257E-02 -1.09568E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.310491897E+01        7.981331842E+02    407694
+Close (  1.20 < r <   1.66 )          3.029299770E+01        7.981331842E+02    143029
+Mid-range ( 1.66 < r <  2.20)         1.921340440E+01        6.661013013E+01    195265
+Far-range (  2.20         < r)        1.435772608E+01        3.444412026E+01     69400
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_6.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610412464.687438] [pc-beethoven:68834:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_6.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746759   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223976    0.000000
+    1    1.000000    1.454549   -0.854537    0.000000
+    1    1.000000   -1.454549   -0.937274    0.000000
+  6.20067E-03  6.42944E-03  6.66565E-03  6.90930E-03  7.16035E-03  7.41874E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.59628E-03 -6.48311E-03 -6.36978E-03 -6.25644E-03 -6.14326E-03 -6.03036E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_6.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_6.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746759   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223976    0.000000
+    1    1.000000    1.454549   -0.854537    0.000000
+    1    1.000000   -1.454549   -0.937274    0.000000
+ -2.39447E-02 -2.41535E-02 -2.43510E-02 -2.45360E-02 -2.47071E-02 -2.48630E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13414E-02 -1.12718E-02 -1.12022E-02 -1.11326E-02 -1.10631E-02 -1.09936E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.284889033E+01        5.702185447E+02    406932
+Close (  1.20 < r <   1.66 )          2.990693825E+01        5.702185447E+02    143394
+Mid-range ( 1.66 < r <  2.20)         1.900526095E+01        6.502190367E+01    194548
+Far-range (  2.20         < r)        1.420544729E+01        3.417322442E+01     68990
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_7.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610413513.971427] [pc-beethoven:72866:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_7.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752727   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218008    0.000000
+    1    1.000000    1.468158   -0.840259    0.000000
+    1    1.000000   -1.468158   -0.903807    0.000000
+  6.09228E-03  6.31740E-03  6.54984E-03  6.78958E-03  7.03660E-03  7.29084E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.51774E-03 -6.40616E-03 -6.29440E-03 -6.18262E-03 -6.07097E-03 -5.95960E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_7.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_7.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752727   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218008    0.000000
+    1    1.000000    1.468158   -0.840259    0.000000
+    1    1.000000   -1.468158   -0.903807    0.000000
+ -2.40080E-02 -2.42204E-02 -2.44218E-02 -2.46108E-02 -2.47862E-02 -2.49466E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13311E-02 -1.12617E-02 -1.11922E-02 -1.11228E-02 -1.10534E-02 -1.09841E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.281604003E+01        5.015576509E+02    407076
+Close (  1.20 < r <   1.66 )          2.984713348E+01        5.015576509E+02    143225
+Mid-range ( 1.66 < r <  2.20)         1.901025184E+01        6.562682280E+01    194703
+Far-range (  2.20         < r)        1.420681838E+01        3.409641726E+01     69148
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_8.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610414559.060666] [pc-beethoven:76253:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_8.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.748410   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222326    0.000000
+    1    1.000000    1.435918   -0.883569    0.000000
+    1    1.000000   -1.435918   -0.895039    0.000000
+  6.14843E-03  6.37258E-03  6.60388E-03  6.84232E-03  7.08789E-03  7.34048E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.69625E-03 -6.57951E-03 -6.46269E-03 -6.34594E-03 -6.22943E-03 -6.11329E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_8.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_8.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.748410   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222326    0.000000
+    1    1.000000    1.435918   -0.883569    0.000000
+    1    1.000000   -1.435918   -0.895039    0.000000
+ -2.40706E-02 -2.42865E-02 -2.44916E-02 -2.46846E-02 -2.48641E-02 -2.50289E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13186E-02 -1.12493E-02 -1.11801E-02 -1.11108E-02 -1.10417E-02 -1.09725E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.298668996E+01        9.099868098E+02    407404
+Close (  1.20 < r <   1.66 )          3.011400496E+01        9.099868098E+02    143196
+Mid-range ( 1.66 < r <  2.20)         1.912056210E+01        6.610868732E+01    194980
+Far-range (  2.20         < r)        1.428446797E+01        3.429276497E+01     69228
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_9.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610415605.455316] [pc-beethoven:80344:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_9.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752303   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218432    0.000000
+    1    1.000000    1.460371   -0.850645    0.000000
+    1    1.000000   -1.460371   -0.896813    0.000000
+  6.09302E-03  6.31732E-03  6.54887E-03  6.78766E-03  7.03366E-03  7.28681E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.55845E-03 -6.44558E-03 -6.33256E-03 -6.21954E-03 -6.10669E-03 -5.99414E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_9.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_9.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752303   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218432    0.000000
+    1    1.000000    1.460371   -0.850645    0.000000
+    1    1.000000   -1.460371   -0.896813    0.000000
+ -2.40276E-02 -2.42412E-02 -2.44438E-02 -2.46341E-02 -2.48109E-02 -2.49729E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13274E-02 -1.12580E-02 -1.11886E-02 -1.11193E-02 -1.10499E-02 -1.09807E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.285299510E+01        4.829046809E+02    407228
+Close (  1.20 < r <   1.66 )          2.989939749E+01        4.829046809E+02    143203
+Mid-range ( 1.66 < r <  2.20)         1.904344350E+01        6.566566563E+01    194849
+Far-range (  2.20         < r)        1.422426815E+01        3.412572195E+01     69176
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_10.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610416664.948393] [pc-beethoven:83742:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_10.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746835   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223901    0.000000
+    1    1.000000    1.446744   -0.865860    0.000000
+    1    1.000000   -1.446744   -0.925346    0.000000
+  6.19145E-03  6.41889E-03  6.65368E-03  6.89581E-03  7.14526E-03  7.40194E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.63802E-03 -6.52347E-03 -6.40877E-03 -6.29411E-03 -6.17962E-03 -6.06545E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_10.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_10.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746835   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223901    0.000000
+    1    1.000000    1.446744   -0.865860    0.000000
+    1    1.000000   -1.446744   -0.925346    0.000000
+ -2.39896E-02 -2.42008E-02 -2.44009E-02 -2.45886E-02 -2.47625E-02 -2.49214E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13331E-02 -1.12636E-02 -1.11942E-02 -1.11247E-02 -1.10553E-02 -1.09859E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.288042853E+01        5.360335231E+02    407070
+Close (  1.20 < r <   1.66 )          2.994085406E+01        5.360335231E+02    143334
+Mid-range ( 1.66 < r <  2.20)         1.904671185E+01        6.503947393E+01    194689
+Far-range (  2.20         < r)        1.423210673E+01        3.423804615E+01     69047
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_11.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610417707.222582] [pc-beethoven:87781:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_11.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747493   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223242    0.000000
+    1    1.000000    1.453160   -0.859211    0.000000
+    1    1.000000   -1.453160   -0.926726    0.000000
+  6.18224E-03  6.40990E-03  6.64494E-03  6.88735E-03  7.13711E-03  7.39415E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.60951E-03 -6.49580E-03 -6.38193E-03 -6.26808E-03 -6.15438E-03 -6.04100E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_11.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_11.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747493   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223242    0.000000
+    1    1.000000    1.453160   -0.859211    0.000000
+    1    1.000000   -1.453160   -0.926726    0.000000
+ -2.39776E-02 -2.41882E-02 -2.43877E-02 -2.45746E-02 -2.47478E-02 -2.49060E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13355E-02 -1.12660E-02 -1.11965E-02 -1.11270E-02 -1.10576E-02 -1.09882E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.285882428E+01        5.380218496E+02    406996
+Close (  1.20 < r <   1.66 )          2.991313786E+01        5.380218496E+02    143320
+Mid-range ( 1.66 < r <  2.20)         1.902751006E+01        6.494220997E+01    194652
+Far-range (  2.20         < r)        1.421671677E+01        3.420001907E+01     69024
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_12.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610418756.478967] [pc-beethoven:91211:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_12.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752564   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218172    0.000000
+    1    1.000000    1.414666   -0.914241    0.000000
+    1    1.000000   -1.414666   -0.831135    0.000000
+  6.04595E-03  6.26309E-03  6.48700E-03  6.71768E-03  6.95505E-03  7.19905E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.79040E-03 -6.66981E-03 -6.54923E-03 -6.42882E-03 -6.30875E-03 -6.18916E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_12.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_12.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752564   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.218172    0.000000
+    1    1.000000    1.414666   -0.914241    0.000000
+    1    1.000000   -1.414666   -0.831135    0.000000
+ -2.42559E-02 -2.44822E-02 -2.46983E-02 -2.49028E-02 -2.50945E-02 -2.52722E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.12852E-02 -1.12164E-02 -1.11477E-02 -1.10790E-02 -1.10103E-02 -1.09417E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.312205176E+01        6.938588689E+02    408054
+Close (  1.20 < r <   1.66 )          3.030465825E+01        6.938588689E+02    142830
+Mid-range ( 1.66 < r <  2.20)         1.926153126E+01        6.613654874E+01    195620
+Far-range (  2.20         < r)        1.438857372E+01        3.442805601E+01     69604
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_13.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610419813.734866] [pc-beethoven:95119:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_13.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746451   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.224284    0.000000
+    1    1.000000    1.420334   -0.903838    0.000000
+    1    1.000000   -1.420334   -0.890437    0.000000
+  6.17568E-03  6.39938E-03  6.63016E-03  6.86802E-03  7.11291E-03  7.36475E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.77889E-03 -6.65979E-03 -6.54064E-03 -6.42161E-03 -6.30286E-03 -6.18454E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_13.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_13.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746451   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.224284    0.000000
+    1    1.000000    1.420334   -0.903838    0.000000
+    1    1.000000   -1.420334   -0.890437    0.000000
+ -2.41072E-02 -2.43252E-02 -2.45324E-02 -2.47276E-02 -2.49095E-02 -2.50767E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13114E-02 -1.12423E-02 -1.11731E-02 -1.11040E-02 -1.10349E-02 -1.09659E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.306050314E+01        8.567199155E+02    407515
+Close (  1.20 < r <   1.66 )          3.022992005E+01        8.567199155E+02    143161
+Mid-range ( 1.66 < r <  2.20)         1.916764392E+01        6.633816753E+01    195088
+Far-range (  2.20         < r)        1.432241528E+01        3.440213987E+01     69266
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_14.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610420886.431255] [pc-beethoven:98656:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_14.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747077   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223658    0.000000
+    1    1.000000    1.453665   -0.856306    0.000000
+    1    1.000000   -1.453665   -0.932961    0.000000
+  6.19316E-03  6.42147E-03  6.65718E-03  6.90031E-03  7.15081E-03  7.40863E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.60146E-03 -6.48807E-03 -6.37452E-03 -6.26097E-03 -6.14758E-03 -6.03448E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_14.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_14.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747077   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223658    0.000000
+    1    1.000000    1.453665   -0.856306    0.000000
+    1    1.000000   -1.453665   -0.932961    0.000000
+ -2.39627E-02 -2.41725E-02 -2.43710E-02 -2.45570E-02 -2.47291E-02 -2.48862E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13381E-02 -1.12685E-02 -1.11990E-02 -1.11294E-02 -1.10599E-02 -1.09905E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.285232806E+01        5.581009604E+02    406958
+Close (  1.20 < r <   1.66 )          2.990630717E+01        5.581009604E+02    143352
+Mid-range ( 1.66 < r <  2.20)         1.901726134E+01        6.501186352E+01    194603
+Far-range (  2.20         < r)        1.421014116E+01        3.419117119E+01     69003
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_15.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610421958.693798] [pc-beethoven:102632:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_15.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749104   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221632    0.000000
+    1    1.000000    1.449367   -0.863431    0.000000
+    1    1.000000   -1.449367   -0.909623    0.000000
+  6.14858E-03  6.37429E-03  6.60726E-03  6.84752E-03  7.09501E-03  7.34966E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.61994E-03 -6.50559E-03 -6.39110E-03 -6.27665E-03 -6.16237E-03 -6.04843E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_15.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_15.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749104   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221632    0.000000
+    1    1.000000    1.449367   -0.863431    0.000000
+    1    1.000000   -1.449367   -0.909623    0.000000
+ -2.40242E-02 -2.42375E-02 -2.44397E-02 -2.46297E-02 -2.48060E-02 -2.49675E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13272E-02 -1.12579E-02 -1.11885E-02 -1.11191E-02 -1.10498E-02 -1.09805E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.287444947E+01        4.910425375E+02    407187
+Close (  1.20 < r <   1.66 )          2.992165981E+01        4.910425375E+02    143237
+Mid-range ( 1.66 < r <  2.20)         1.906306947E+01        6.604712864E+01    194826
+Far-range (  2.20         < r)        1.423954825E+01        3.422003662E+01     69124
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_16.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610423016.620763] [pc-beethoven:106247:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_16.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747324   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223411    0.000000
+    1    1.000000    1.440791   -0.876563    0.000000
+    1    1.000000   -1.440791   -0.910727    0.000000
+  6.17407E-03  6.39995E-03  6.63308E-03  6.87345E-03  7.12105E-03  7.37578E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.67456E-03 -6.55873E-03 -6.44279E-03 -6.32691E-03 -6.21123E-03 -6.09591E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_16.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_16.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747324   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223411    0.000000
+    1    1.000000    1.440791   -0.876563    0.000000
+    1    1.000000   -1.440791   -0.910727    0.000000
+ -2.40342E-02 -2.42481E-02 -2.44509E-02 -2.46414E-02 -2.48184E-02 -2.49805E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13250E-02 -1.12557E-02 -1.11863E-02 -1.11170E-02 -1.10477E-02 -1.09785E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.290385464E+01        4.946097406E+02    407200
+Close (  1.20 < r <   1.66 )          2.996373523E+01        4.946097406E+02    143291
+Mid-range ( 1.66 < r <  2.20)         1.907958164E+01        6.598149115E+01    194787
+Far-range (  2.20         < r)        1.425855592E+01        3.427657523E+01     69122
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_17.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610424071.688262] [pc-beethoven:110278:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_17.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747858   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222878    0.000000
+    1    1.000000    1.452363   -0.858911    0.000000
+    1    1.000000   -1.452363   -0.924110    0.000000
+  6.17605E-03  6.40338E-03  6.63806E-03  6.88011E-03  7.12949E-03  7.38612E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.60792E-03 -6.49419E-03 -6.38030E-03 -6.26643E-03 -6.15272E-03 -6.03932E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_17.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_17.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747858   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222878    0.000000
+    1    1.000000    1.452363   -0.858911    0.000000
+    1    1.000000   -1.452363   -0.924110    0.000000
+ -2.39808E-02 -2.41917E-02 -2.43913E-02 -2.45786E-02 -2.47520E-02 -2.49105E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13350E-02 -1.12655E-02 -1.11960E-02 -1.11265E-02 -1.10570E-02 -1.09877E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.286058708E+01        5.324895379E+02    407042
+Close (  1.20 < r <   1.66 )          2.991511600E+01        5.324895379E+02    143322
+Mid-range ( 1.66 < r <  2.20)         1.903020077E+01        6.491560356E+01    194674
+Far-range (  2.20         < r)        1.421964193E+01        3.419525000E+01     69046
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_18.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610425129.196572] [pc-beethoven:113678:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_18.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749187   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221549    0.000000
+    1    1.000000    1.415938   -0.910991    0.000000
+    1    1.000000   -1.415938   -0.861398    0.000000
+  6.11734E-03  6.33787E-03  6.56532E-03  6.79968E-03  7.04092E-03  7.28893E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.79370E-03 -6.67362E-03 -6.55353E-03 -6.43359E-03 -6.31396E-03 -6.19478E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_18.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_18.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749187   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.221549    0.000000
+    1    1.000000    1.415938   -0.910991    0.000000
+    1    1.000000   -1.415938   -0.861398    0.000000
+ -2.41856E-02 -2.44079E-02 -2.46198E-02 -2.48199E-02 -2.50069E-02 -2.51796E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.12974E-02 -1.12285E-02 -1.11595E-02 -1.10906E-02 -1.10218E-02 -1.09530E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.310714171E+01        7.736812110E+02    407780
+Close (  1.20 < r <   1.66 )          3.029351023E+01        7.736812110E+02    142958
+Mid-range ( 1.66 < r <  2.20)         1.922479194E+01        6.647452534E+01    195358
+Far-range (  2.20         < r)        1.436548213E+01        3.442962479E+01     69464
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_19.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610426181.884247] [pc-beethoven:117592:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_19.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753886   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.216850    0.000000
+    1    1.000000    1.437208   -0.884713    0.000000
+    1    1.000000   -1.437208   -0.850084    0.000000
+  6.03557E-03  6.25465E-03  6.48065E-03  6.71358E-03  6.95339E-03  7.20000E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.67640E-03 -6.55932E-03 -6.44218E-03 -6.32515E-03 -6.20839E-03 -6.09202E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_19.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_19.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753886   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.216850    0.000000
+    1    1.000000    1.437208   -0.884713    0.000000
+    1    1.000000   -1.437208   -0.850084    0.000000
+ -2.41722E-02 -2.43939E-02 -2.46052E-02 -2.48046E-02 -2.49910E-02 -2.51631E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13011E-02 -1.12322E-02 -1.11632E-02 -1.10942E-02 -1.10253E-02 -1.09564E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.305011968E+01        7.827497895E+02    407746
+Close (  1.20 < r <   1.66 )          3.022498660E+01        7.827497895E+02    142958
+Mid-range ( 1.66 < r <  2.20)         1.917142945E+01        6.598199316E+01    195299
+Far-range (  2.20         < r)        1.432450389E+01        3.426979812E+01     69489
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_20.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610427235.488065] [pc-beethoven:120971:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_20.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.754494   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.216241    0.000000
+    1    1.000000    1.445839   -0.873318    0.000000
+    1    1.000000   -1.445839   -0.856613    0.000000
+  6.03041E-03  6.25018E-03  6.47695E-03  6.71070E-03  6.95139E-03  7.19894E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.63167E-03 -6.51596E-03 -6.40017E-03 -6.28446E-03 -6.16899E-03 -6.05389E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_20.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_20.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.754494   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.216241    0.000000
+    1    1.000000    1.445839   -0.873318    0.000000
+    1    1.000000   -1.445839   -0.856613    0.000000
+ -2.41525E-02 -2.43730E-02 -2.45830E-02 -2.47811E-02 -2.49662E-02 -2.51368E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13049E-02 -1.12359E-02 -1.11669E-02 -1.10978E-02 -1.10289E-02 -1.09599E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.302084782E+01        8.118999889E+02    407616
+Close (  1.20 < r <   1.66 )          3.018765861E+01        8.118999889E+02    142938
+Mid-range ( 1.66 < r <  2.20)         1.914519285E+01        6.594559761E+01    195248
+Far-range (  2.20         < r)        1.429882474E+01        3.422919826E+01     69430
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_21.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610428301.241218] [pc-beethoven:124995:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_21.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.750147   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.220588    0.000000
+    1    1.000000    1.432094   -0.889714    0.000000
+    1    1.000000   -1.432094   -0.874993    0.000000
+  6.10976E-03  6.33168E-03  6.56065E-03  6.79665E-03  7.03964E-03  7.28955E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.71154E-03 -6.59399E-03 -6.47637E-03 -6.35886E-03 -6.24160E-03 -6.12475E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_21.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_21.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.750147   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.220588    0.000000
+    1    1.000000    1.432094   -0.889714    0.000000
+    1    1.000000   -1.432094   -0.874993    0.000000
+ -2.41246E-02 -2.43436E-02 -2.45519E-02 -2.47483E-02 -2.49314E-02 -2.51000E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13090E-02 -1.12399E-02 -1.11708E-02 -1.11017E-02 -1.10327E-02 -1.09637E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.305025603E+01        8.451676544E+02    407579
+Close (  1.20 < r <   1.66 )          3.022462475E+01        8.451676544E+02    143089
+Mid-range ( 1.66 < r <  2.20)         1.915931184E+01        6.632022076E+01    195150
+Far-range (  2.20         < r)        1.431104108E+01        3.431730059E+01     69340
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_22.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610429358.151314] [pc-beethoven:128435:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_22.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749756   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.220980    0.000000
+    1    1.000000    1.438587   -0.880617    0.000000
+    1    1.000000   -1.438587   -0.887222    0.000000
+  6.12331E-03  6.34657E-03  6.57696E-03  6.81447E-03  7.05906E-03  7.31065E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.67971E-03 -6.56328E-03 -6.44676E-03 -6.33032E-03 -6.21411E-03 -6.09827E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_22.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_22.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.749756   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.220980    0.000000
+    1    1.000000    1.438587   -0.880617    0.000000
+    1    1.000000   -1.438587   -0.887222    0.000000
+ -2.40913E-02 -2.43084E-02 -2.45147E-02 -2.47089E-02 -2.48898E-02 -2.50560E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13151E-02 -1.12459E-02 -1.11767E-02 -1.11075E-02 -1.10384E-02 -1.09693E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.298567829E+01        8.894740272E+02    407439
+Close (  1.20 < r <   1.66 )          3.011285696E+01        8.894740272E+02    143147
+Mid-range ( 1.66 < r <  2.20)         1.912415680E+01        6.600426974E+01    195030
+Far-range (  2.20         < r)        1.428540150E+01        3.428485835E+01     69262
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_23.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610430421.017375] [pc-beethoven:132587:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_23.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.751181   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.219555    0.000000
+    1    1.000000    1.427015   -0.896479    0.000000
+    1    1.000000   -1.427015   -0.859958    0.000000
+  6.08495E-03  6.30521E-03  6.53241E-03  6.76655E-03  7.00759E-03  7.25545E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.73222E-03 -6.61380E-03 -6.49533E-03 -6.37699E-03 -6.25892E-03 -6.14129E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_23.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_23.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.751181   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.219555    0.000000
+    1    1.000000    1.427015   -0.896479    0.000000
+    1    1.000000   -1.427015   -0.859958    0.000000
+ -2.41717E-02 -2.43933E-02 -2.46044E-02 -2.48037E-02 -2.49899E-02 -2.51617E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13005E-02 -1.12315E-02 -1.11625E-02 -1.10936E-02 -1.10247E-02 -1.09558E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.307542336E+01        7.908568981E+02    407734
+Close (  1.20 < r <   1.66 )          3.025515604E+01        7.908568981E+02    142983
+Mid-range ( 1.66 < r <  2.20)         1.919302796E+01        6.624855918E+01    195300
+Far-range (  2.20         < r)        1.434026523E+01        3.435275488E+01     69451
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_24.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610431489.818603] [pc-beethoven:136124:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_24.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747982   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222754    0.000000
+    1    1.000000    1.446409   -0.866933    0.000000
+    1    1.000000   -1.446409   -0.915096    0.000000
+  6.16837E-03  6.39468E-03  6.62828E-03  6.86917E-03  7.11732E-03  7.37265E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.63750E-03 -6.52276E-03 -6.40790E-03 -6.29306E-03 -6.17842E-03 -6.06410E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_24.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_24.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747982   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.222754    0.000000
+    1    1.000000    1.446409   -0.866933    0.000000
+    1    1.000000   -1.446409   -0.915096    0.000000
+ -2.40145E-02 -2.42273E-02 -2.44289E-02 -2.46183E-02 -2.47940E-02 -2.49548E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13288E-02 -1.12594E-02 -1.11900E-02 -1.11206E-02 -1.10512E-02 -1.09819E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.288373040E+01        5.051363374E+02    407168
+Close (  1.20 < r <   1.66 )          2.993949311E+01        5.051363374E+02    143292
+Mid-range ( 1.66 < r <  2.20)         1.906031811E+01        6.521329406E+01    194772
+Far-range (  2.20         < r)        1.424202439E+01        3.423227306E+01     69104
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_25.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610432556.407212] [pc-beethoven:140027:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_25.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753473   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217263    0.000000
+    1    1.000000    1.461158   -0.850574    0.000000
+    1    1.000000   -1.461158   -0.887530    0.000000
+  6.06889E-03  6.29215E-03  6.52260E-03  6.76025E-03  7.00507E-03  7.25698E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.55282E-03 -6.43993E-03 -6.32689E-03 -6.21387E-03 -6.10101E-03 -5.98845E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_25.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_25.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753473   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217263    0.000000
+    1    1.000000    1.461158   -0.850574    0.000000
+    1    1.000000   -1.461158   -0.887530    0.000000
+ -2.40523E-02 -2.42672E-02 -2.44713E-02 -2.46631E-02 -2.48416E-02 -2.50053E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13231E-02 -1.12538E-02 -1.11845E-02 -1.11152E-02 -1.10459E-02 -1.09767E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.285591195E+01        4.781494769E+02    407296
+Close (  1.20 < r <   1.66 )          2.989763437E+01        4.781494769E+02    143134
+Mid-range ( 1.66 < r <  2.20)         1.905836540E+01        6.594672712E+01    194938
+Far-range (  2.20         < r)        1.423125943E+01        3.412459243E+01     69224
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_26.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610433607.829857] [pc-beethoven:143975:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_26.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753714   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217022    0.000000
+    1    1.000000    1.466463   -0.843519    0.000000
+    1    1.000000   -1.466463   -0.892656    0.000000
+  6.06930E-03  6.29316E-03  6.52425E-03  6.76260E-03  7.00815E-03  7.26085E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.52538E-03 -6.41336E-03 -6.30118E-03 -6.18900E-03 -6.07696E-03 -5.96521E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_26.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_26.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753714   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217022    0.000000
+    1    1.000000    1.466463   -0.843519    0.000000
+    1    1.000000   -1.466463   -0.892656    0.000000
+ -2.40333E-02 -2.42472E-02 -2.44502E-02 -2.46409E-02 -2.48181E-02 -2.49805E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13267E-02 -1.12574E-02 -1.11880E-02 -1.11186E-02 -1.10493E-02 -1.09800E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.283115099E+01        4.917713270E+02    407184
+Close (  1.20 < r <   1.66 )          2.986579420E+01        4.917713270E+02    143189
+Mid-range ( 1.66 < r <  2.20)         1.903019415E+01        6.549937562E+01    194809
+Far-range (  2.20         < r)        1.421487451E+01        3.409547599E+01     69186
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_27.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610434654.580787] [pc-beethoven:147337:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_27.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747159   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223576    0.000000
+    1    1.000000    1.467733   -0.836825    0.000000
+    1    1.000000   -1.467733   -0.951784    0.000000
+  6.20546E-03  6.43595E-03  6.67399E-03  6.91960E-03  7.17275E-03  7.43338E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.52791E-03 -6.41695E-03 -6.30578E-03 -6.19457E-03 -6.08345E-03 -5.97257E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_27.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_27.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747159   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223576    0.000000
+    1    1.000000    1.467733   -0.836825    0.000000
+    1    1.000000   -1.467733   -0.951784    0.000000
+ -2.38946E-02 -2.41005E-02 -2.42949E-02 -2.44766E-02 -2.46442E-02 -2.47964E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13506E-02 -1.12809E-02 -1.12111E-02 -1.11414E-02 -1.10717E-02 -1.10021E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.280409314E+01        6.192807491E+02    406700
+Close (  1.20 < r <   1.66 )          2.985794967E+01        6.192807491E+02    143512
+Mid-range ( 1.66 < r <  2.20)         1.894548264E+01        6.499222247E+01    194320
+Far-range (  2.20         < r)        1.415915487E+01        3.410181384E+01     68868
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_28.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610435713.342788] [pc-beethoven:151378:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_28.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746980   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223755    0.000000
+    1    1.000000    1.431921   -0.888522    0.000000
+    1    1.000000   -1.431921   -0.901519    0.000000
+  6.17363E-03  6.39851E-03  6.63056E-03  6.86978E-03  7.11613E-03  7.36953E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.72023E-03 -6.60295E-03 -6.48560E-03 -6.36833E-03 -6.25130E-03 -6.13466E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_28.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_28.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.746980   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223755    0.000000
+    1    1.000000    1.431921   -0.888522    0.000000
+    1    1.000000   -1.431921   -0.901519    0.000000
+ -2.40687E-02 -2.42844E-02 -2.44893E-02 -2.46819E-02 -2.48612E-02 -2.50256E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13186E-02 -1.12494E-02 -1.11801E-02 -1.11109E-02 -1.10417E-02 -1.09726E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.295224459E+01        4.700867960E+02    407350
+Close (  1.20 < r <   1.66 )          3.003362945E+01        4.700867960E+02    143232
+Mid-range ( 1.66 < r <  2.20)         1.912198507E+01        6.628382521E+01    194945
+Far-range (  2.20         < r)        1.428451176E+01        3.433857316E+01     69173
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_29.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610436775.214251] [pc-beethoven:154836:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_29.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752950   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217786    0.000000
+    1    1.000000    1.462708   -0.847998    0.000000
+    1    1.000000   -1.462708   -0.894287    0.000000
+  6.08169E-03  6.30571E-03  6.53697E-03  6.77548E-03  7.02119E-03  7.27404E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.54563E-03 -6.43307E-03 -6.32036E-03 -6.20765E-03 -6.09510E-03 -5.98284E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_29.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_29.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.752950   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217786    0.000000
+    1    1.000000    1.462708   -0.847998    0.000000
+    1    1.000000   -1.462708   -0.894287    0.000000
+ -2.40379E-02 -2.42520E-02 -2.44552E-02 -2.46461E-02 -2.48235E-02 -2.49861E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13257E-02 -1.12563E-02 -1.11870E-02 -1.11176E-02 -1.10483E-02 -1.09791E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.284628436E+01        4.850731027E+02    407202
+Close (  1.20 < r <   1.66 )          2.988890484E+01        4.850731027E+02    143178
+Mid-range ( 1.66 < r <  2.20)         1.904056154E+01        6.560178517E+01    194837
+Far-range (  2.20         < r)        1.422285740E+01        3.412666321E+01     69187
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_30.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610437844.210075] [pc-beethoven:159061:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_30.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753601   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217135    0.000000
+    1    1.000000    1.440704   -0.879581    0.000000
+    1    1.000000   -1.440704   -0.857499    0.000000
+  6.04507E-03  6.26496E-03  6.49184E-03  6.72568E-03  6.96646E-03  7.21409E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.65901E-03 -6.54256E-03 -6.42604E-03 -6.30961E-03 -6.19342E-03 -6.07763E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_30.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_30.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.753601   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217135    0.000000
+    1    1.000000    1.440704   -0.879581    0.000000
+    1    1.000000   -1.440704   -0.857499    0.000000
+ -2.41536E-02 -2.43743E-02 -2.45844E-02 -2.47826E-02 -2.49677E-02 -2.51385E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13044E-02 -1.12354E-02 -1.11664E-02 -1.10974E-02 -1.10284E-02 -1.09595E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.304085103E+01        8.084040709E+02    407670
+Close (  1.20 < r <   1.66 )          3.021650964E+01        8.084040709E+02    142976
+Mid-range ( 1.66 < r <  2.20)         1.915799125E+01        6.601161160E+01    195260
+Far-range (  2.20         < r)        1.430864399E+01        3.425072184E+01     69434
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_31.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610438910.142690] [pc-beethoven:162573:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_31.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.754166   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.216570    0.000000
+    1    1.000000    1.458138   -0.855384    0.000000
+    1    1.000000   -1.458138   -0.877175    0.000000
+  6.05074E-03  6.27282E-03  6.50202E-03  6.73837E-03  6.98181E-03  7.23227E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.56742E-03 -6.45391E-03 -6.34028E-03 -6.22667E-03 -6.11324E-03 -6.00014E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_31.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_31.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.754166   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.216570    0.000000
+    1    1.000000    1.458138   -0.855384    0.000000
+    1    1.000000   -1.458138   -0.877175    0.000000
+ -2.40781E-02 -2.42945E-02 -2.45001E-02 -2.46937E-02 -2.48739E-02 -2.50395E-02
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -1.13187E-02 -1.12494E-02 -1.11802E-02 -1.11109E-02 -1.10417E-02 -1.09726E-02
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        2.292200784E+01        9.035813814E+02    407375
+Close (  1.20 < r <   1.66 )          3.002601964E+01        9.035813814E+02    143039
+Mid-range ( 1.66 < r <  2.20)         1.908126501E+01        6.586383312E+01    195039
+Far-range (  2.20         < r)        1.424977161E+01        3.413902515E+01     69297
+mv: cannot stat ‘comparison.png’: No such file or directory
+Did analysis and wrote slice data
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_32.chk.fchk.potential.cube.xyz 
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   pc-beethoven
+  Local device: mlx4_0
+--------------------------------------------------------------------------
+[1610439993.878906] [pc-beethoven:166877:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 

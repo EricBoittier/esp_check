@@ -1,0 +1,8 @@
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_61.chk.fchk.potential.cube.xyz 
+Abort is in progress...hit ctrl-c again within 5 seconds to forcibly terminate
+
+Abort is in progress...hit ctrl-c again within 5 seconds to forcibly terminate
+
+cations. Please set the stack size to the default value (10240) 

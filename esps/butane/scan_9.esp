@@ -1,0 +1,60 @@
+you modified ESP-template.inp to match /home/boittier/MDCM/GDMA_analysis/butane_scan/scan_extract_9.xyz.chk.fchk.potential.cube already, right?
+the pdb file should have the same coords as /home/boittier/MDCM/GDMA_analysis/butane_scan/scan_extract_9.xyz.chk.fchk.potential.cube (in Angstrom)
+the cube grid parameters should match /home/boittier/MDCM/GDMA_analysis/butane_scan/scan_extract_9.xyz.chk.fchk.potential.cube
+Running in analysis mode
+
+Reading "/home/boittier/MDCM/GDMA_analysis/butane_scan/scan_extract_9.xyz.chk.fchk.potential.cube"...
+
+  butane_opt Potential
+  Electrostatic potential from Total SCF Density
+   14  -10.196797   -7.484864   -6.512903
+  103    0.200544    0.000000    0.000000
+   76    0.000000    0.200544    0.000000
+   66    0.000000    0.000000    0.200544
+    6    6.000000   -3.684044   -0.226741    0.000164
+    6    6.000000   -1.064106    0.972112   -0.000150
+    1    1.000000   -5.170486    1.200747    0.000757
+    1    1.000000   -3.953028   -1.415672    1.664402
+    1    1.000000   -3.953598   -1.414949   -1.664499
+    6    6.000000    1.064106   -0.972112   -0.000150
+    1    1.000000   -0.861558    2.197778    1.652776
+    1    1.000000   -0.861865    2.197250   -1.653523
+    6    6.000000    3.684044    0.226741    0.000164
+    1    1.000000    0.861865   -2.197252   -1.653521
+    1    1.000000    0.861558   -2.197777    1.652778
+    1    1.000000    3.953599    1.414948   -1.664499
+    1    1.000000    5.170486   -1.200747    0.000759
+    1    1.000000    3.953028    1.415673    1.664401
+ -1.44177E-04 -1.55990E-04 -1.68370E-04 -1.81316E-04 -1.94825E-04 -2.08889E-04
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -2.07036E-04 -1.93355E-04 -1.80198E-04 -1.67575E-04 -1.55491E-04 -1.43946E-04
+
+516648 out of 516648 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/for-eric/esp_charmm_grid/charmm/charmm.cube"...
+
+ Cube file generated from CHARMM output mep.dat
+  Electrostatic potential from Total SCF Density
+   14  -10.196797   -7.484864   -6.512903
+  103    0.200544    0.000000    0.000000
+   76    0.000000    0.200544    0.000000
+   66    0.000000    0.000000    0.200544
+    6    6.000000   -3.684044   -0.226741    0.000164
+    6    6.000000   -1.064106    0.972112   -0.000150
+    1    1.000000   -5.170486    1.200747    0.000757
+    1    1.000000   -3.953028   -1.415672    1.664402
+    1    1.000000   -3.953598   -1.414949   -1.664499
+    6    6.000000    1.064106   -0.972112   -0.000150
+    1    1.000000   -0.861558    2.197778    1.652776
+    1    1.000000   -0.861865    2.197250   -1.653523
+    6    6.000000    3.684044    0.226741    0.000164
+    1    1.000000    0.861865   -2.197252   -1.653521
+    1    1.000000    0.861558   -2.197777    1.652778
+    1    1.000000    3.953599    1.414948   -1.664499
+    1    1.000000    5.170486   -1.200747    0.000759
+    1    1.000000    3.953028    1.415673    1.664401
+ERROR: Could not read ESP grid.

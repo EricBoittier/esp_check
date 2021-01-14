@@ -1,0 +1,3 @@
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_875.chk.fchk.potential.cube.xyz 

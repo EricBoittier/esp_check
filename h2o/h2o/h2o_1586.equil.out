@@ -1,0 +1,30 @@
+making a new pdb file from template, water_template.pdb
+water_template.pdb
+charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_1586.chk.fchk.potential.cube.xyz 
+[1610456374.217720] [node91:117575:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_1586.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.735065   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.235671    0.000000
+    1    1.000000    1.412578   -0.919828    0.000000
+    1    1.000000   -1.412578   -0.965539    0.000000
+  6.37516E-03  6.60717E-03  6.84662E-03  7.09350E-03  7.34778E-03  7.60938E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.87184E-03 -6.75172E-03 -6.63154E-03 -6.51145E-03 -6.39162E-03 -6.27220E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_1586.mep.dat.cube"...
+
+ERROR: Could not read "/home/boittier/esp_check/charmm/h2o_1586.mep.dat.cube". Bad Format.
