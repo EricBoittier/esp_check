@@ -1,4 +1,54 @@
 making a new pdb file from template, water_template.pdb
 water_template.pdb
 charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_90.chk.fchk.potential.cube.xyz 
-[1610390549.364898] [node79:18119:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+[1610634478.839556] [node88:161888:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
+Running in analysis mode
+
+Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_90.chk.fchk.potential.cube"...
+
+  h2o Potential=SCF
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747051   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223685    0.000000
+    1    1.000000    1.436665   -0.881084    0.000000
+    1    1.000000   -1.436665   -0.908393    0.000000
+  6.17713E-03  6.40273E-03  6.63555E-03  6.87559E-03  7.12282E-03  7.37716E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.69302E-03 -6.57662E-03 -6.46012E-03 -6.34369E-03 -6.22748E-03 -6.11164E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+Reading "/home/boittier/esp_check/charmm/h2o_90.mep.dat.cube"...
+
+ Cube file generated from CHARMM output h2o_90.mep.dat
+  Electrostatic potential from Total SCF Density
+    3   -4.970736   -4.747051   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.223685    0.000000
+    1    1.000000    1.436665   -0.881084    0.000000
+    1    1.000000   -1.436665   -0.908393    0.000000
+  6.11981E-03  6.33863E-03  6.56421E-03  6.79655E-03  7.03560E-03  7.28127E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.67231E-03 -6.55998E-03 -6.44728E-03 -6.33438E-03 -6.22145E-03 -6.10864E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        6.927541456E-01        4.730417381E+00    407250
+Close (  1.20 < r <   1.66 )          1.093430654E+00        4.730417381E+00    143228
+Mid-range ( 1.66 < r <  2.20)         3.447167423E-01        1.202703474E+00    194872
+Far-range (  2.20         < r)        1.228747020E-01        3.695340512E-01     69150
+Did analysis and wrote slice data

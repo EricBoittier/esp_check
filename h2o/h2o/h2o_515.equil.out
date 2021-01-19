@@ -1,6 +1,7 @@
 making a new pdb file from template, water_template.pdb
 water_template.pdb
 charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_515.chk.fchk.potential.cube.xyz 
+[1610639984.102183] [node88:165154:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
 Running in analysis mode
 
 Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_515.chk.fchk.potential.cube"...
@@ -28,4 +29,26 @@ Reading "/home/boittier/esp_check/charmm/h2o_515.mep.dat.cube"...
 
  Cube file generated from CHARMM output h2o_515.mep.dat
   Electrostatic potential from Total SCF Density
-ERROR: Could not read "/home/boittier/esp_check/charmm/h2o_515.mep.dat.cube". Missing Header?
+    3   -4.970736   -4.753304   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217431    0.000000
+    1    1.000000    1.439145   -0.881519    0.000000
+    1    1.000000   -1.439145   -0.857932    0.000000
+  5.99320E-03  6.20733E-03  6.42805E-03  6.65534E-03  6.88915E-03  7.12939E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.58633E-03 -6.47564E-03 -6.36459E-03 -6.25332E-03 -6.14200E-03 -6.03078E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        6.834548997E-01        4.639616761E+00    407680
+Close (  1.20 < r <   1.66 )          1.080469233E+00        4.639616761E+00    142981
+Mid-range ( 1.66 < r <  2.20)         3.393151525E-01        1.256148455E+00    195267
+Far-range (  2.20         < r)        1.218945624E-01        3.638299901E-01     69432
+Did analysis and wrote slice data

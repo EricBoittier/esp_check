@@ -28,4 +28,26 @@ Reading "/home/boittier/esp_check/charmm/h2o_266.mep.dat.cube"...
 
  Cube file generated from CHARMM output h2o_266.mep.dat
   Electrostatic potential from Total SCF Density
-ERROR: Could not read "/home/boittier/esp_check/charmm/h2o_266.mep.dat.cube". Missing Header?
+    3   -4.970736   -4.753178   -4.970736
+   80    0.125841    0.000000    0.000000
+   80    0.000000    0.125841    0.000000
+   80    0.000000    0.000000    0.125841
+    8    8.000000    0.000000    0.217558    0.000000
+    1    1.000000    1.458430   -0.854127    0.000000
+    1    1.000000   -1.458430   -0.886333    0.000000
+  6.03577E-03  6.25219E-03  6.47532E-03  6.70514E-03  6.94161E-03  7.18463E-03
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+       .            .            .            .            .            .
+ -6.57881E-03 -6.46872E-03 -6.35822E-03 -6.24750E-03 -6.13670E-03 -6.02599E-03
+
+512000 out of 512000 gridpoints are considered (100.0%).
+
+...done!
+
+                       Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
+                         Total        7.137608999E-01        4.599142400E+00    407312
+Close (  1.20 < r <   1.66 )          1.123258183E+00        4.599142400E+00    143102
+Mid-range ( 1.66 < r <  2.20)         3.639029481E-01        1.525412768E+00    194968
+Far-range (  2.20         < r)        1.280417289E-01        4.561993840E-01     69242
+Did analysis and wrote slice data

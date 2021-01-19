@@ -1,6 +1,7 @@
 making a new pdb file from template, water_template.pdb
 water_template.pdb
 charmm/crd/water_template.pdb /data/boittier/energies/h2o_geom.xyz.dir/h2o_536.chk.fchk.potential.cube.xyz 
+[1610640625.866579] [node104:120537:0]         mxm.c:196  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the stack size to the default value (10240) 
 Running in analysis mode
 
 Reading "/data/boittier/energies/h2o_geom.xyz.dir/h2o_536.chk.fchk.potential.cube"...
@@ -35,19 +36,19 @@ Reading "/home/boittier/esp_check/charmm/h2o_536.mep.dat.cube"...
     8    8.000000    0.000000    0.223481    0.000000
     1    1.000000    1.411076   -0.917292    0.000000
     1    1.000000   -1.411076   -0.870559    0.000000
- -2.41696E-02 -2.43911E-02 -2.46019E-02 -2.48010E-02 -2.49869E-02 -2.51584E-02
+  6.06427E-03  6.28009E-03  6.50252E-03  6.73154E-03  6.96710E-03  7.20912E-03
        .            .            .            .            .            .
        .            .            .            .            .            .
        .            .            .            .            .            .
-  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+ -6.68270E-03 -6.56962E-03 -6.45619E-03 -6.34258E-03 -6.22897E-03 -6.11549E-03
 
 512000 out of 512000 gridpoints are considered (100.0%).
 
 ...done!
 
                        Measure       RMSE[kcal/mol/e]   MaxError[kcal/mol/e]   NPoints
-                         Total        1.294205713E+01        4.293833943E+01    407723
-Close (  1.20 < r <   1.66 )          1.680870119E+01        4.293833943E+01    143021
-Mid-range ( 1.66 < r <  2.20)         1.084516590E+01        4.199067463E+01    195290
-Far-range (  2.20         < r)        8.414554765E+00        3.054834067E+01     69412
+                         Total        6.902213450E-01        4.791725056E+00    407723
+Close (  1.20 < r <   1.66 )          1.089573792E+00        4.791725056E+00    143021
+Mid-range ( 1.66 < r <  2.20)         3.449879233E-01        1.414858150E+00    195290
+Far-range (  2.20         < r)        1.319395021E-01        4.564629379E-01     69412
 Did analysis and wrote slice data
